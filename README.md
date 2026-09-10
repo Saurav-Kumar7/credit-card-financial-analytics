@@ -58,6 +58,15 @@ The analysis focuses on:
 
 The project uses four CSV files containing credit card and customer information.
 
+## 📊 Dataset
+
+The project structure and dashboard concept were inspired by the original Credit Card Financial Dashboard project by Rishabh Mishra.
+
+> **Data note:** The original dataset is not included in this public repository. The CSV files used during development are retained locally and excluded from GitHub.
+
+Original project reference:
+https://github.com/rishabhnmishra/Credit_Card_Financial_Dashboard
+
 ### Credit Card Data
 
 - `credit_card.csv`

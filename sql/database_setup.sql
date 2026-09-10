@@ -75,11 +75,11 @@ CREATE TABLE cust_detail (
 -- 5. IMPORT CREDIT CARD DATA
 -- ============================================================
 -- IMPORTANT:
--- Replace the file path below if your MySQL secure_file_priv
--- folder is different.
+-- Update the file paths below according to your local MySQL
+-- secure_file_priv directory before running the import commands.
 --
--- Current MySQL setup:
--- C:/ProgramData/MySQL/MySQL Server 8.4/Uploads/
+-- Check your MySQL import directory using:
+-- SHOW VARIABLES LIKE 'secure_file_priv';
 -- ============================================================
 
 
