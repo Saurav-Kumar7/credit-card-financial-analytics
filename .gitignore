@@ -31,3 +31,6 @@ env/
 # Local database/config files
 *.bak
 *.backup
+
+# Project datasets
+data/*.csv
