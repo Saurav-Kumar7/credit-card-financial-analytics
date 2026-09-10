@@ -1,0 +1,33 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Power BI temporary/lock files
+*.pbi-tools/
+~$*.pbix
+
+# OS files
+.DS_Store
+
+# Local database/config files
+*.bak
+*.backup
