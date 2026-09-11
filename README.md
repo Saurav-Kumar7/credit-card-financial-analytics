@@ -1,4 +1,4 @@
-# Credit Card Financial Analytics Dashboard
+# Credit Card Financial Analytics
 
 > **End-to-End Data Analytics Project | MySQL + SQL + Power BI + DAX**
 
